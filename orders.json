@@ -36,10 +36,10 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Via Adda, n. 12",
+      "postal_code": "23017",
+      "city": "Morbegno (SO)",
+      "country": "Italien",
       "lat": "",
       "lng": ""
     }
