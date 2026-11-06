@@ -1,0 +1,47 @@
+{
+  "RL481528024452": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Valter Perlini, Via Adda, 12, 23017 Morbegno (SO), Italien",
+    "price": "10.700,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Tri Glide Ultra Classic FLHTCUTG<br>Fahrgestelnummer: 1HD1MAM11AB855571<br>Erstzulassung: 01.07.2010<br>KM laut Vorbesitzer: 44.216 km<br>Leistung: 64 kW / 87 PS<br>Hubraum: 1.690 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Valter Perlini<br>Via Adda, 12<br>23017 Morbegno (SO)<br>Italien<br>Telefon: +39 3757715481",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "06.11.2026",
+    "deliveryDate": "12.11.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
