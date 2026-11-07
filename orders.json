@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "Via Adda 12",
-      "postal_code": "23017",
+      "street": "Via Adda 12 Paniga",
+      "postal_code": "Paniga, 23017",
       "city": "Morbegno",
       "country": "Italien",
-      "lat": "",
-      "lng": ""
+      "lat": "46.142834728631094",
+      "lng": "9.613532796171215"
     }
   }
 }
