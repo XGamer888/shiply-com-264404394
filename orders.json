@@ -1,6 +1,6 @@
 {
   "RL481528024452": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Valter Perlini, Via Adda, 12, 23017 Morbegno (SO), Italien",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "06.11.2026",
-    "deliveryDate": "12.11.2026",
+    "deliveryDate": "12.11.2026 🕟 16:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Altenwerder Hauptstraße 11–15",
+      "postal_code": "21129",
+      "city": "Hamburg",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
