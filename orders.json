@@ -1,6 +1,6 @@
 {
   "RL481528024452": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Valter Perlini, Via Adda, 12, 23017 Morbegno (SO), Italien",
@@ -28,9 +28,9 @@
     "orderDate": "06.11.2026",
     "deliveryDate": "12.11.2026 🕟 16:30 Uhr",
     "pickup": {
-      "street": "Altenwerder Hauptstraße 11–15",
-      "postal_code": "21129",
-      "city": "Hamburg",
+      "street": "Weißenfelder Str. 1",
+      "postal_code": "85551",
+      "city": "Kirchheim bei München-Heimstetten",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
