@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "06.11.2026",
-    "deliveryDate": "12.11.2026 🕟 16:30 Uhr",
+    "deliveryDate": "12.11.2026 🕔 17:10 Uhr",
     "pickup": {
-      "street": "Weißenfelder Str. 1",
-      "postal_code": "85551",
-      "city": "Kirchheim bei München-Heimstetten",
-      "country": "Deutschland",
+      "street": "Strada Cantonale 2",
+      "postal_code": "7608",
+      "city": "Castasegna",
+      "country": "Schweiz",
       "lat": "",
       "lng": ""
     },
